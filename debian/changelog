@@ -1,3 +1,9 @@
+jbigkit (2.1-3.1-deepin2) unstable; urgency=medium
+
+  * Rebuild with LTO enabled (dpkg vendor feature optimize/lto).
+
+ -- tunaichao <tunaichao@uniontech.com>  Thu, 10 Sep 2026 17:43:32 +0800
+
 jbigkit (2.1-3.1-deepin1) unstable; urgency=medium
 
   * Rebuild
